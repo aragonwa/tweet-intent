@@ -7,5 +7,5 @@
 
 2 Add the script to your page
 ```
-https://rawgit.com/aragonwa/tweet-intent/master/tweet-intent.js
+<script src="https://rawgit.com/aragonwa/tweet-intent/master/tweet-intent.js"></script>
 ```
