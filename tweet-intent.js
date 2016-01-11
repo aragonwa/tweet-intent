@@ -1,8 +1,6 @@
-
-(function() {
+(function($) {
   'use strict';
-  $.getScript('//platform.twitter.com/widgets.js', function()
-  {
+  $.getScript('//platform.twitter.com/widgets.js', function() {
 
     var twitterUrl = 'https://twitter.com/intent/tweet';
 
@@ -22,4 +20,4 @@
       });
     });
   });
-}());
+})(jQuery);
