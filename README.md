@@ -7,5 +7,5 @@
 
 2 Add the script to the customScriptblock of your page
 ```
-<script src="https://rawgit.com/aragonwa/tweet-intent/master/tweet-intent.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/aragonwa/tweet-intent@master/tweet-intent.js"></script>
 ```
